@@ -3,7 +3,9 @@
 
 A basic one-page Android App built using Kotlin and Android Studio.
 
-Jaden Smith is known for typing each word capitalized. This app will convert any sentence so it resembles Jaden Smith's style.
+Jaden Smith is known for typing each word capitalized. 
+
+This app will convert any sentence so it resembles Jaden Smith's style.
 
 Simply type in a sentence, press the button: 'Change to Jaden Case' ... and voila!
 
