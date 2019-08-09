@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">To Jaden Case</string>
+    <string name="title">Type Like Jaden Smith. Just Enter Your Sentence Below!</string>
+    <string name="hint">type your sentence here</string>
+    <string name="button">change to Jaden Case</string>
 </resources>
